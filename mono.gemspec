@@ -14,7 +14,7 @@ Gem::Specification.new do |spec|
   spec.license = "MIT"
   spec.required_ruby_version = ">= 3.1.0"
 
-  spec.metadata["allowed_push_host"] = "http://localhost:9292"
+  spec.metadata["allowed_push_host"] = "https://gems.antif4.com"
 
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = "http://0.0.0.0"
